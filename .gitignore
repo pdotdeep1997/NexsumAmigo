@@ -1,0 +1,102 @@
+# =========================
+# OS / General
+# =========================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+
+# =========================
+# Node.js
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Logs
+logs/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Pip / Poetry
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+
+# Testing / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# =========================
+# Misc
+# =========================
+*.sqlite3
+*.db
+*.pid
+node_modules
+
+serviceAccountKey.json

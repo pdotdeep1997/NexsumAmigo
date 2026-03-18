@@ -1,0 +1,63 @@
+[
+    {
+      "question": "How do you say 'Hello' in Hindi?",
+      "options": ["Shukriya", "Namaste", "Alvida", "Kya haal hai"],
+      "correct_answer": 1,
+      "topic": "Greetings"
+    },
+    {
+      "question": "What does 'Shukriya' mean?",
+      "options": ["Hello", "Sorry", "Thank you", "Goodbye"],
+      "correct_answer": 2,
+      "topic": "Greetings"
+    },
+    {
+      "question": "How do you ask 'What is your name?' in Hindi?",
+      "options": ["Tum kaise ho?", "Aapka naam kya hai?", "Main theek hoon", "Mujhe bhookh lagi hai"],
+      "correct_answer": 1,
+      "topic": "Introductions"
+    },
+    {
+      "question": "What does 'Mera naam Rahul hai' mean?",
+      "options": ["My name is Rahul", "How are you?", "I am hungry", "Thank you, Rahul"],
+      "correct_answer": 0,
+      "topic": "Introductions"
+    },
+    {
+      "question": "How do you say 'I am fine' in Hindi?",
+      "options": ["Main theek hoon", "Mujhe neend aa rahi hai", "Aapka shubh din ho", "Main Rahul hoon"],
+      "correct_answer": 0,
+      "topic": "Well-being"
+    },
+    {
+      "question": "What does 'Alvida' mean?",
+      "options": ["Hello", "Please", "Goodbye", "Excuse me"],
+      "correct_answer": 2,
+      "topic": "Farewell"
+    },
+    {
+      "question": "How do you say 'Where are you from?' in Hindi?",
+      "options": ["Aap kahaan se ho?", "Aap kya karte ho?", "Aapka naam kya hai?", "Aap theek ho?"],
+      "correct_answer": 0,
+      "topic": "Introductions"
+    },
+    {
+      "question": "What is the Hindi word for 'Yes'?",
+      "options": ["Haan", "Nahin", "Kya", "Shubh"],
+      "correct_answer": 0,
+      "topic": "Basics"
+    },
+    {
+      "question": "What does 'Nahin' mean in Hindi?",
+      "options": ["Yes", "No", "Maybe", "Why"],
+      "correct_answer": 1,
+      "topic": "Basics"
+    },
+    {
+      "question": "How do you say 'Please' in Hindi?",
+      "options": ["Dhanyavaad", "Kripya", "Nahin", "Namaste"],
+      "correct_answer": 1,
+      "topic": "Politeness"
+    }
+  ]
+  

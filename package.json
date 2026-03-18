@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@fullstory/browser": "^2.0.6"
+  }
+}

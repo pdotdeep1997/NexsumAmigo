@@ -1,0 +1,23 @@
+
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+TELE_BOT_TOKEN = os.getenv('TELE_BOT_TOKEN')
+OPEN_API_KEY = os.getenv('OPEN_API_KEY')
+
+SUPABASE_URL = os.getenv('SUPABASE_URL')
+SUPABASE_KEY = os.getenv('SUPABASE_KEY')
+DB_CONNECTION = os.getenv('DB_CONNECTION')
+
+FIREBASE_KEY= os.getenv('FIREBASE_KEY')
+
+
+TELE_HINDI_BOT_TOKEN = os.getenv('TELE_HINDI_BOT_TOKEN')
+TELE_ITALIAN_BOT_TOKEN = os.getenv('TELE_ITALIAN_BOT_TOKEN')
+TELE_SPANISH_BOT_TOKEN = os.getenv('TELE_SPANISH_BOT_TOKEN')
+TELE_ITALIAN_BADDIE_BOT_TOKEN = os.getenv('TELE_ITALIAN_BADDIE_BOT_TOKEN')
+TELE_HINDI_FLIRTY_BOT_TOKEN = os.getenv('TELE_HINDI_FLIRTY_BOT_TOKEN')
+
+IS_PROD = str(os.getenv('IS_PROD')).lower() == "true"
