@@ -1,4 +1,4 @@
-# NexsumAmigo
+# NexsumAmigo [Inactive startup]
 
 NexsumAmigo is an AI language-learning Telegram bot designed to feel less like a course and more like a conversation with a friend. Instead of pushing learners through rigid lessons, the bot chats naturally, asks follow-up questions, gives practice prompts, and helps users build confidence in a target language inside Telegram, where they already spend time.
 
